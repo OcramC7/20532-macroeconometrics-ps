@@ -1,0 +1,2 @@
+T,BurnIn,InnovationVariance,ARPolynomial,MAPolynomial,MaxSeriesDifference,MaxShockDifference
+500,500,0.4,[1 -0.8],[1 0.4 0.2],8.88178419700125e-16,0

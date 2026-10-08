@@ -1,0 +1,35 @@
+# MATLAB autosave and temporary files
+*.asv
+*.m~
+*.autosave
+
+# MATLAB generated folders
+slprj/
+codegen/
+*.slxc
+
+# MATLAB crash / diagnostic files
+matlab_crash_dump.*
+java.log
+
+# Simulink generated files
+*.mdl.r*
+*.slx.r*
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE settings
+.vscode/
+.idea/
+
+# Local command-window logs
+PS1_command_window_log.txt
+**/*_command_window_log.txt
+
+# Temporary files
+*.tmp
+*.temp
+~$*
